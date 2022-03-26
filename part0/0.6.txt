@@ -1,0 +1,3 @@
+browser -> server: HTML POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server receives note in JSON (compared to raw data previously), updates JSON data
+server -> browser: updated JSON data
